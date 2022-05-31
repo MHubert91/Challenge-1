@@ -1,2 +1,2 @@
 # Challenge-1
-DU challenge !
+DU challenge 1
